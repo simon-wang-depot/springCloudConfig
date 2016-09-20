@@ -3,4 +3,4 @@ configuration:
 server:  
   port: 8000
 message:  
-  greeting: Simon changed it on the fly
+  greeting: Simon changed it on the fly1
